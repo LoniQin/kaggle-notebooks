@@ -22,4 +22,5 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [House Pirce Predictor with DenseFeatures](https://www.kaggle.com/lonnieqin/house-price-predictor-with-densefeatures)
 - [House Price Prediction with TF & CatBoost (Top 1%)](https://www.kaggle.com/lonnieqin/house-price-prediction-with-tf-catboost-top-1)
 - [House Price Prediction with CatBoost](https://www.kaggle.com/lonnieqin/house-prices-prediction-with-catboost)
+- [House Prices Prediction with XGBoost](https://www.kaggle.com/lonnieqin/house-prices-prediction-with-xgboost)
 - [CatBoost Tabular Playground Prediction(Sep 2021)](https://www.kaggle.com/lonnieqin/catboost-tabular-playground-prediction-sep-2021)
