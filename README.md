@@ -1,6 +1,7 @@
 # Kaggle Notebooks
 Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
-## Table of Contents
+# Table of Contents
+## Computer Vision
 ### Image Classfication
 - [Flower Classification on TPU](https://www.kaggle.com/lonnieqin/flower-classification-on-tpu)
 - [Fungi Classification with TensorFlow Custom Training Loop](https://www.kaggle.com/lonnieqin/fungi-classification-with-tf-custom-training-loop)
@@ -8,15 +9,20 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [CatBoost MNIST Classification](https://www.kaggle.com/lonnieqin/catboost-mnist-classification)
 - [TF-DF MNIST Classification](https://www.kaggle.com/lonnieqin/tf-df-mnist-classification)
 - [MNIST Classifier with Data Augmentation](https://www.kaggle.com/lonnieqin/mnist-classifier-with-data-augmentation)
-### Image Generation
+
+## Image Generation
 - [Digits Generation with GAN](https://www.kaggle.com/lonnieqin/digits-generation-with-gan)
 - [Digits Generation with DCGAN](https://www.kaggle.com/lonnieqin/digits-generation-with-dcgan)
 - [Building a WGAN to generate digits](https://www.kaggle.com/lonnieqin/digits-generation-with-wgan)
 - [Cycle GAN](https://www.kaggle.com/lonnieqin/cycle-gan)
 - [Fast Style Transfer](https://www.kaggle.com/lonnieqin/fast-style-transfer)
+
+## Natural Language Processing
 ### Text Classification
 - [Spam Filter using Word Embedding & LSTM](https://www.kaggle.com/lonnieqin/spam-filter-using-word-embedding-lstm)
-### Tabular Prediction
+
+## Tabular Prediction
+- [Iris Classification with TF Decision Forests](https://www.kaggle.com/lonnieqin/iris-classification-with-tf-decision-forests)
 - [House Price Predictor using Different Models](https://www.kaggle.com/lonnieqin/house-price-predictor-using-different-models)
 - [Titanic Prediction with Different Models](https://www.kaggle.com/lonnieqin/titanic-prediction-with-different-models)
 - [TF-DF Titanic Prediction](https://www.kaggle.com/lonnieqin/tf-df-titanic-prediction)
