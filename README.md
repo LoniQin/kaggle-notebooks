@@ -1,4 +1,4 @@
-# kaggle-notebooks
+# Kaggle Notebooks
 Notebooks from my Kaggle account.
 ## Table of Contents
 ### Image Classfication
