@@ -1,5 +1,5 @@
 # Kaggle Notebooks
-Notebooks from my Kaggle account.
+Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 ## Table of Contents
 ### Image Classfication
 - [MNIST EDA and Model Development](https://www.kaggle.com/lonnieqin/mnist-eda-and-model-development)
@@ -8,6 +8,7 @@ Notebooks from my Kaggle account.
 ### Image Generation
 - [Cycle GAN](https://www.kaggle.com/lonnieqin/cycle-gan)
 - [Fast Style Transfer](https://www.kaggle.com/lonnieqin/fast-style-transfer)
+- [Digit Generation with GAN](https://www.kaggle.com/lonnieqin/digit-generation-with-gan)
 ### Text Classification
 - [Spam Filter using Word Embedding & LSTM](https://www.kaggle.com/lonnieqin/spam-filter-using-word-embedding-lstm)
 ### Tabular Prediction
