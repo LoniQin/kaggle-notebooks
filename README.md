@@ -9,10 +9,11 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [TF-DF MNIST Classification](https://www.kaggle.com/lonnieqin/tf-df-mnist-classification)
 - [MNIST Classifier with Data Augmentation](https://www.kaggle.com/lonnieqin/mnist-classifier-with-data-augmentation)
 ### Image Generation
+- [Digits Generation with GAN](https://www.kaggle.com/lonnieqin/digits-generation-with-gan)
+- [Digits Generation with DCGAN](https://www.kaggle.com/lonnieqin/digits-generation-with-dcgan)
+- [Building a WGAN to generate digits](https://www.kaggle.com/lonnieqin/digits-generation-with-wgan)
 - [Cycle GAN](https://www.kaggle.com/lonnieqin/cycle-gan)
 - [Fast Style Transfer](https://www.kaggle.com/lonnieqin/fast-style-transfer)
-- [Digit Generation with GAN](https://www.kaggle.com/lonnieqin/digit-generation-with-gan)
-- [Building a WGAN to generate digits](https://www.kaggle.com/lonnieqin/digits-generation-with-wgan)
 ### Text Classification
 - [Spam Filter using Word Embedding & LSTM](https://www.kaggle.com/lonnieqin/spam-filter-using-word-embedding-lstm)
 ### Tabular Prediction
