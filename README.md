@@ -15,6 +15,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Digits Generation with GAN](https://www.kaggle.com/lonnieqin/digits-generation-with-gan)
 - [Digits Generation with DCGAN](https://www.kaggle.com/lonnieqin/digits-generation-with-dcgan)
 - [Digits Generation with Auto Encoder](https://www.kaggle.com/lonnieqin/digits-generation-with-auto-encoder)
+- [Digits Generation with VAE](https://www.kaggle.com/lonnieqin/digits-generation-with-vae)
 - [Building a WGAN to generate digits](https://www.kaggle.com/lonnieqin/digits-generation-with-wgan)
 - [Cycle GAN](https://www.kaggle.com/lonnieqin/cycle-gan)
 - [Fast Style Transfer](https://www.kaggle.com/lonnieqin/fast-style-transfer)
