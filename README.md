@@ -25,13 +25,15 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Disaster Tweets Classification](https://www.kaggle.com/lonnieqin/disaster-tweets-classification)
 
 ## Tabular Prediction
-- [Iris Classification with TF Decision Forests](https://www.kaggle.com/lonnieqin/iris-classification-with-tf-decision-forests)
+### Regression
 - [House Price Predictor using Different Models](https://www.kaggle.com/lonnieqin/house-price-predictor-using-different-models)
-- [Titanic Prediction with Different Models](https://www.kaggle.com/lonnieqin/titanic-prediction-with-different-models)
-- [TF-DF Titanic Prediction](https://www.kaggle.com/lonnieqin/tf-df-titanic-prediction)
 - [House Pirce Predictor with DenseFeatures](https://www.kaggle.com/lonnieqin/house-price-predictor-with-densefeatures)
 - [House Price Prediction with TF & CatBoost (Top 1%)](https://www.kaggle.com/lonnieqin/house-price-prediction-with-tf-catboost-top-1)
 - [House Price Prediction with CatBoost](https://www.kaggle.com/lonnieqin/house-prices-prediction-with-catboost)
 - [House Prices Prediction with XGBoost](https://www.kaggle.com/lonnieqin/house-prices-prediction-with-xgboost)
-- [CatBoost Tabular Playground Prediction(Sep 2021)](https://www.kaggle.com/lonnieqin/catboost-tabular-playground-prediction-sep-2021)
 - [Tabular Playground Series Prediction(Aug 2021)](https://www.kaggle.com/lonnieqin/tabular-playground-series-prediction)
+### Classification
+- [Iris Classification with TF Decision Forests](https://www.kaggle.com/lonnieqin/iris-classification-with-tf-decision-forests)
+- [Titanic Prediction with Different Models](https://www.kaggle.com/lonnieqin/titanic-prediction-with-different-models)
+- [TF-DF Titanic Prediction](https://www.kaggle.com/lonnieqin/tf-df-titanic-prediction)
+- [CatBoost Tabular Playground Prediction(Sep 2021)](https://www.kaggle.com/lonnieqin/catboost-tabular-playground-prediction-sep-2021)
