@@ -9,6 +9,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [CatBoost MNIST Classification](https://www.kaggle.com/lonnieqin/catboost-mnist-classification)
 - [TF-DF MNIST Classification](https://www.kaggle.com/lonnieqin/tf-df-mnist-classification)
 - [MNIST Classifier with Data Augmentation](https://www.kaggle.com/lonnieqin/mnist-classifier-with-data-augmentation)
+- [Fashion MNIST Classification with 3DCNN](https://www.kaggle.com/lonnieqin/fashion-mnist-classification-with-3dcnn)
 
 
 ## Image Generation
