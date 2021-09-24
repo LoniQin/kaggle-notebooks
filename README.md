@@ -12,7 +12,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Fashion MNIST Classification with 3DCNN](https://www.kaggle.com/lonnieqin/fashion-mnist-classification-with-3dcnn)
 - [Fashion MNIST Classification with TensorFlow](https://www.kaggle.com/lonnieqin/fashion-mnist-classification-with-tensorflow)
 - [Bird Classification with PyTorch](https://www.kaggle.com/lonnieqin/bird-classification-with-pytorch)
-
+- [Cifar10 Image Classification with PyTorch](https://www.kaggle.com/lonnieqin/cifar10-image-classification-with-pytorch)
 ## Image Generation
 - [Digits Generation with GAN](https://www.kaggle.com/lonnieqin/digits-generation-with-gan)
 - [Digits Generation with DCGAN](https://www.kaggle.com/lonnieqin/digits-generation-with-dcgan)
