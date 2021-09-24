@@ -11,6 +11,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [MNIST Classifier with Data Augmentation](https://www.kaggle.com/lonnieqin/mnist-classifier-with-data-augmentation)
 - [Fashion MNIST Classification with 3DCNN](https://www.kaggle.com/lonnieqin/fashion-mnist-classification-with-3dcnn)
 - [Fashion MNIST Classification with TensorFlow](https://www.kaggle.com/lonnieqin/fashion-mnist-classification-with-tensorflow)
+- [Bird Classification with PyTorch](https://www.kaggle.com/lonnieqin/bird-classification-with-pytorch)
 
 ## Image Generation
 - [Digits Generation with GAN](https://www.kaggle.com/lonnieqin/digits-generation-with-gan)
