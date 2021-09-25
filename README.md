@@ -35,6 +35,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [House Price Prediction with CatBoost](https://www.kaggle.com/lonnieqin/house-prices-prediction-with-catboost)
 - [House Prices Prediction with XGBoost](https://www.kaggle.com/lonnieqin/house-prices-prediction-with-xgboost)
 - [Tabular Playground Series Prediction(Aug 2021)](https://www.kaggle.com/lonnieqin/tabular-playground-series-prediction)
+- [PetFinder Pawpularity Prediction](https://www.kaggle.com/lonnieqin/petfinder-pawpularity-prediction)
 ### Classification
 - [Iris Classification with TF Decision Forests](https://www.kaggle.com/lonnieqin/iris-classification-with-tf-decision-forests)
 - [Titanic Prediction with Different Models](https://www.kaggle.com/lonnieqin/titanic-prediction-with-different-models)
