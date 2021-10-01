@@ -44,3 +44,4 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Titanic Prediction with Different Models](https://www.kaggle.com/lonnieqin/titanic-prediction-with-different-models)
 - [TF-DF Titanic Prediction](https://www.kaggle.com/lonnieqin/tf-df-titanic-prediction)
 - [CatBoost Tabular Playground Prediction(Sep 2021)](https://www.kaggle.com/lonnieqin/catboost-tabular-playground-prediction-sep-2021)
+- [CatBoost Tabular Prediction(Oct 2021)](https://www.kaggle.com/lonnieqin/catboost-tabular-prediction-oct-2021)
