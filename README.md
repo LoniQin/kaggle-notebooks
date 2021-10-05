@@ -48,3 +48,4 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [CatBoost Tabular Playground Prediction(Sep 2021)](https://www.kaggle.com/lonnieqin/catboost-tabular-playground-prediction-sep-2021)
 - [CatBoost Tabular Prediction(Oct 2021)](https://www.kaggle.com/lonnieqin/catboost-tabular-prediction-oct-2021)
 - [TPS Prediction with DNN and KerasTuner (Oct 2021)](https://www.kaggle.com/lonnieqin/tps-prediction-with-dnn-and-kerastuner-oct-2021)
+- [TPS-10-21: DNN](https://www.kaggle.com/lonnieqin/tps-10-21-dnn)
