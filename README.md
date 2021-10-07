@@ -14,6 +14,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Bird Classification with PyTorch](https://www.kaggle.com/lonnieqin/bird-classification-with-pytorch)
 - [Cifar10 Image Classification with PyTorch](https://www.kaggle.com/lonnieqin/cifar10-image-classification-with-pytorch)
 - [MNIST classification with KerasTuner HyperModels](https://www.kaggle.com/lonnieqin/mnist-classification-with-kerastuner-hypermodels)
+- [Cifar10 Classification: Vision Transformer](https://www.kaggle.com/lonnieqin/cifar10-classification-vision-transformer)
 ### Image Regression
 - [TensorFlow multi-input Pet Pawpularity Model](https://www.kaggle.com/lonnieqin/tensorflow-multi-input-pet-pawpularity-model)
 ## Image Generation
