@@ -33,6 +33,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Spam Filter using Word Embedding & LSTM](https://www.kaggle.com/lonnieqin/spam-filter-using-word-embedding-lstm)
 - [Disaster Tweets Classification: LSTM](https://www.kaggle.com/lonnieqin/disaster-tweets-classification)
 - [Disaster Tweets Classification: Transformer](https://www.kaggle.com/lonnieqin/disaster-tweets-classification-transformer)
+- [Disaster Tweets Classification: Switch Transformer](https://www.kaggle.com/lonnieqin/disaster-tweets-classification-switch-transformer)
 
 ## Tabular Prediction
 ### Regression
