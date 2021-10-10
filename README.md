@@ -17,6 +17,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Cifar10 Classification: Vision Transformer](https://www.kaggle.com/lonnieqin/cifar10-classification-vision-transformer)
 - [Pawpularity: Vision Transformer from Scratch](https://www.kaggle.com/lonnieqin/pawpularity-vision-transformer-from-scratch)
 - [Fashion MNIST Classification: Vision Transformer](https://www.kaggle.com/lonnieqin/fashion-mnist-classification-vision-transformer)
+- [Fashion MNIST: Getting Started with Trax](https://www.kaggle.com/lonnieqin/fashion-mnist-getting-started-with-trax)
 ### Image Regression
 - [TensorFlow multi-input Pet Pawpularity Model](https://www.kaggle.com/lonnieqin/tensorflow-multi-input-pet-pawpularity-model)
 ## Image Generation
