@@ -35,6 +35,8 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Disaster Tweets Classification: Bidrectional LSTM](https://www.kaggle.com/lonnieqin/disaster-tweets-classification)
 - [Disaster Tweets Classification: Transformer](https://www.kaggle.com/lonnieqin/disaster-tweets-classification-transformer)
 - [Disaster Tweets Classification: Switch Transformer](https://www.kaggle.com/lonnieqin/disaster-tweets-classification-switch-transformer)
+### Text Generation
+- [Shakespeare Play Generation: Transformer](https://www.kaggle.com/lonnieqin/shakespeare-play-generation-transformer)
 
 ## Tabular Prediction
 ### Regression
