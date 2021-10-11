@@ -37,6 +37,8 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Disaster Tweets Classification: Switch Transformer](https://www.kaggle.com/lonnieqin/disaster-tweets-classification-switch-transformer)
 ### Text Generation
 - [Shakespeare Play Generation: Transformer](https://www.kaggle.com/lonnieqin/shakespeare-play-generation-transformer)
+### Machine Translation
+- [English-Spanish Translation: Transformer](https://www.kaggle.com/lonnieqin/english-spanish-translation-transformer)
 
 ## Tabular Prediction
 ### Regression
