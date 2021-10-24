@@ -3,21 +3,23 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 # Table of Contents
 ## Computer Vision
 ### Image Classfication
-- [Flower Classification on TPU](https://www.kaggle.com/lonnieqin/flower-classification-on-tpu)
-- [Fungi Classification with TensorFlow Custom Training Loop](https://www.kaggle.com/lonnieqin/fungi-classification-with-tf-custom-training-loop)
+#### Small datasets
 - [MNIST Classification with CNN](https://www.kaggle.com/lonnieqin/mnist-classification-with-cnn)
-- [CatBoost MNIST Classification](https://www.kaggle.com/lonnieqin/catboost-mnist-classification)
-- [TF-DF MNIST Classification](https://www.kaggle.com/lonnieqin/tf-df-mnist-classification)
-- [MNIST Classifier with Data Augmentation](https://www.kaggle.com/lonnieqin/mnist-classifier-with-data-augmentation)
+- [MNIST Classification with CatBoost](https://www.kaggle.com/lonnieqin/catboost-mnist-classification)
+- [MNIST Classification with TF-DF](https://www.kaggle.com/lonnieqin/tf-df-mnist-classification)
+- [MNIST Classification with Data Augmentation](https://www.kaggle.com/lonnieqin/mnist-classifier-with-data-augmentation)
 - [Fashion MNIST Classification with 3DCNN](https://www.kaggle.com/lonnieqin/fashion-mnist-classification-with-3dcnn)
 - [Fashion MNIST Classification with TensorFlow](https://www.kaggle.com/lonnieqin/fashion-mnist-classification-with-tensorflow)
-- [Bird Classification with PyTorch](https://www.kaggle.com/lonnieqin/bird-classification-with-pytorch)
 - [Cifar10 Image Classification with PyTorch](https://www.kaggle.com/lonnieqin/cifar10-image-classification-with-pytorch)
 - [MNIST classification with KerasTuner HyperModels](https://www.kaggle.com/lonnieqin/mnist-classification-with-kerastuner-hypermodels)
 - [Cifar10 Classification: Vision Transformer](https://www.kaggle.com/lonnieqin/cifar10-classification-vision-transformer)
-- [Pawpularity: Vision Transformer from Scratch](https://www.kaggle.com/lonnieqin/pawpularity-vision-transformer-from-scratch)
 - [Fashion MNIST Classification: Vision Transformer](https://www.kaggle.com/lonnieqin/fashion-mnist-classification-vision-transformer)
 - [Fashion MNIST: Getting Started with Trax](https://www.kaggle.com/lonnieqin/fashion-mnist-getting-started-with-trax)
+#### Medium datasets
+- [Flower Classification on TPU](https://www.kaggle.com/lonnieqin/flower-classification-on-tpu)
+- [Fungi Classification with TensorFlow Custom Training Loop](https://www.kaggle.com/lonnieqin/fungi-classification-with-tf-custom-training-loop)
+- [Bird Classification with PyTorch](https://www.kaggle.com/lonnieqin/bird-classification-with-pytorch)
+- [Pawpularity: Vision Transformer from Scratch](https://www.kaggle.com/lonnieqin/pawpularity-vision-transformer-from-scratch)
 ### Image Regression
 - [TensorFlow multi-input Pet Pawpularity Model](https://www.kaggle.com/lonnieqin/tensorflow-multi-input-pet-pawpularity-model)
 ## Image Generation
