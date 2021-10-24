@@ -46,21 +46,21 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 
 ## Tabular Prediction
 ### Regression
-- [House Price Predictor using Different Models](https://www.kaggle.com/lonnieqin/house-price-predictor-using-different-models)
-- [House Pirce Predictor with DenseFeatures](https://www.kaggle.com/lonnieqin/house-price-predictor-with-densefeatures)
+- [House Price Prediction with Different Models](https://www.kaggle.com/lonnieqin/house-price-predictor-using-different-models)
+- [House Pirce Prediction with DenseFeatures](https://www.kaggle.com/lonnieqin/house-price-predictor-with-densefeatures)
 - [House Price Prediction with TF & CatBoost (Top 1%)](https://www.kaggle.com/lonnieqin/house-price-prediction-with-tf-catboost-top-1)
 - [House Price Prediction with CatBoost](https://www.kaggle.com/lonnieqin/house-prices-prediction-with-catboost)
 - [House Prices Prediction with XGBoost](https://www.kaggle.com/lonnieqin/house-prices-prediction-with-xgboost)
 - [House Prices Prediction with KerasTuner](https://www.kaggle.com/lonnieqin/house-prices-prediction-with-kerastuner)
 - [Tabular Playground Series Prediction(Aug 2021)](https://www.kaggle.com/lonnieqin/tabular-playground-series-prediction)
-- [PetFinder Pawpularity Prediction](https://www.kaggle.com/lonnieqin/petfinder-pawpularity-prediction)
+- [PetFinder Pawpularity Prediction with CatBoost](https://www.kaggle.com/lonnieqin/petfinder-pawpularity-prediction)
 ### Classification
 - [Iris Classification with TF Decision Forests](https://www.kaggle.com/lonnieqin/iris-classification-with-tf-decision-forests)
 - [Titanic Prediction with Different Models](https://www.kaggle.com/lonnieqin/titanic-prediction-with-different-models)
-- [TF-DF Titanic Prediction](https://www.kaggle.com/lonnieqin/tf-df-titanic-prediction)
+- [Titanic Prediction with TF-DF](https://www.kaggle.com/lonnieqin/tf-df-titanic-prediction)
 - [Titanic Prediction with KerasTuner](https://www.kaggle.com/lonnieqin/titanic-prediction-with-kerastuner)
-- [CatBoost Tabular Playground Prediction(Sep 2021)](https://www.kaggle.com/lonnieqin/catboost-tabular-playground-prediction-sep-2021)
-- [CatBoost Tabular Prediction(Oct 2021)](https://www.kaggle.com/lonnieqin/catboost-tabular-prediction-oct-2021)
+- [Tabular Playground Prediction(Sep 2021) with CatBoost](https://www.kaggle.com/lonnieqin/catboost-tabular-playground-prediction-sep-2021)
+- [Tabular Prediction(Oct 2021) with CatBoost](https://www.kaggle.com/lonnieqin/catboost-tabular-prediction-oct-2021)
 - [TPS Prediction with DNN and KerasTuner (Oct 2021)](https://www.kaggle.com/lonnieqin/tps-prediction-with-dnn-and-kerastuner-oct-2021)
 - [TPS-10-21: DNN](https://www.kaggle.com/lonnieqin/tps-10-21-dnn)
 ## Data Analysis
