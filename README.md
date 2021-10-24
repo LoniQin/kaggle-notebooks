@@ -5,7 +5,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 ### Image Classfication
 - [Flower Classification on TPU](https://www.kaggle.com/lonnieqin/flower-classification-on-tpu)
 - [Fungi Classification with TensorFlow Custom Training Loop](https://www.kaggle.com/lonnieqin/fungi-classification-with-tf-custom-training-loop)
-- [MNIST EDA and Model Development](https://www.kaggle.com/lonnieqin/mnist-eda-and-model-development)
+- [MNIST Classification with CNN](https://www.kaggle.com/lonnieqin/mnist-classification-with-cnn)
 - [CatBoost MNIST Classification](https://www.kaggle.com/lonnieqin/catboost-mnist-classification)
 - [TF-DF MNIST Classification](https://www.kaggle.com/lonnieqin/tf-df-mnist-classification)
 - [MNIST Classifier with Data Augmentation](https://www.kaggle.com/lonnieqin/mnist-classifier-with-data-augmentation)
