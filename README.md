@@ -45,6 +45,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [IMDB Reviews: Masked Language Modeling](https://www.kaggle.com/lonnieqin/imdb-reviews-masked-language-modeling)
 ### Machine Translation
 - [English-Spanish Translation: Transformer](https://www.kaggle.com/lonnieqin/english-spanish-translation-transformer)
+- [English-Spanish Translation: FNet](https://www.kaggle.com/lonnieqin/english-spanish-translation-fnet)
 
 ## Tabular Prediction
 ### Regression
