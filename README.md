@@ -41,6 +41,8 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [IMDB Reviews Classification: Bidirectional-LSTM](https://www.kaggle.com/lonnieqin/imdb-reviews-classification-bidirectional-lstm)
 ### Text Generation
 - [Shakespeare Play Generation: Transformer](https://www.kaggle.com/lonnieqin/shakespeare-play-generation-transformer)
+### Masked Language Modeling
+- [IMDB Reviews: Masked Language Modeling](https://www.kaggle.com/lonnieqin/imdb-reviews-masked-language-modeling)
 ### Machine Translation
 - [English-Spanish Translation: Transformer](https://www.kaggle.com/lonnieqin/english-spanish-translation-transformer)
 
