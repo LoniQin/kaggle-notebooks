@@ -46,6 +46,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 ### Machine Translation
 - [English-Spanish Translation: Transformer](https://www.kaggle.com/lonnieqin/english-spanish-translation-transformer)
 - [English-Spanish Translation: FNet](https://www.kaggle.com/lonnieqin/english-spanish-translation-fnet)
+- [English-Spanish Translation: Switch Transformer](https://www.kaggle.com/lonnieqin/english-spanish-translation-switch-transformer)
 
 ## Tabular Prediction
 ### Regression
