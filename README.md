@@ -68,5 +68,6 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [TPS Prediction with DNN and KerasTuner (Oct 2021)](https://www.kaggle.com/lonnieqin/tps-prediction-with-dnn-and-kerastuner-oct-2021)
 - [TPS-10-21: DNN](https://www.kaggle.com/lonnieqin/tps-10-21-dnn)
 - [TPS-11-21: Catboost](https://www.kaggle.com/lonnieqin/tps-11-2021-catboost)
+- [TPS-11-21: DNN](https://www.kaggle.com/lonnieqin/tps-11-21-dnn)
 ## Data Analysis
 * [Data Analysis with Machine Learners](https://www.kaggle.com/lonnieqin/data-analysis-with-machine-learners?scriptVersionId=77337248)
