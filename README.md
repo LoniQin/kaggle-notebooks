@@ -23,6 +23,8 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Pawpularity: Vision Transformer from Scratch](https://www.kaggle.com/lonnieqin/pawpularity-vision-transformer-from-scratch)
 ### Image Regression
 - [TensorFlow multi-input Pet Pawpularity Model](https://www.kaggle.com/lonnieqin/tensorflow-multi-input-pet-pawpularity-model)
+- [Pawpularity with EfficientNet: [Training]](https://www.kaggle.com/lonnieqin/pawpularity-with-efficientnet-training)
+- [Pawpularity with EfficientNet: [Inference]](https://www.kaggle.com/lonnieqin/pawpularity-with-efficientnet-inference)
 ## Image Generation
 - [Digits Generation with GAN](https://www.kaggle.com/lonnieqin/digits-generation-with-gan)
 - [Digits Generation with DCGAN](https://www.kaggle.com/lonnieqin/digits-generation-with-dcgan)
