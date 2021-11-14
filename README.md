@@ -41,6 +41,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Disaster Tweets Classification: Transformer](https://www.kaggle.com/lonnieqin/disaster-tweets-classification-transformer)
 - [Disaster Tweets Classification: Switch Transformer](https://www.kaggle.com/lonnieqin/disaster-tweets-classification-switch-transformer)
 - [English-Spanish Classification: Bidirectional-LSTM](https://www.kaggle.com/lonnieqin/english-spanish-classification-bidirectional-lstm)
+- [Disaster Tweets Classification: TF-IDF](https://www.kaggle.com/lonnieqin/disaster-tweets-classification-tf-idf)
 - [IMDB Reviews Classification: Bidirectional-LSTM](https://www.kaggle.com/lonnieqin/imdb-reviews-classification-bidirectional-lstm)
 - [Jigsaw Toxicity Training with FNet](https://www.kaggle.com/lonnieqin/jigsaw-toxicity-training-with-fnet)
 - [Jigsaw Toxicity Inference with FNet](https://www.kaggle.com/lonnieqin/jigsaw-toxicity-inference-with-fnett)
