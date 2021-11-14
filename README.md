@@ -42,7 +42,9 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Disaster Tweets Classification: Switch Transformer](https://www.kaggle.com/lonnieqin/disaster-tweets-classification-switch-transformer)
 - [English-Spanish Classification: Bidirectional-LSTM](https://www.kaggle.com/lonnieqin/english-spanish-classification-bidirectional-lstm)
 - [IMDB Reviews Classification: Bidirectional-LSTM](https://www.kaggle.com/lonnieqin/imdb-reviews-classification-bidirectional-lstm)
-- [Jigsaw Toxicity Prediction with FNet](https://www.kaggle.com/lonnieqin/jigsaw-toxicity-prediction-with-fnet)
+- [Jigsaw Toxicity Training with FNet](https://www.kaggle.com/lonnieqin/jigsaw-toxicity-training-with-fnet)
+- [Jigsaw Toxicity Inference with FNet](https://www.kaggle.com/lonnieqin/jigsaw-toxicity-inference-with-fnett)
+- [TF-IDF Vectorization with Keras](https://www.kaggle.com/lonnieqin/tf-idf-vectorization-with-keras)
 ### Text Generation
 - [Shakespeare Play Generation: Transformer](https://www.kaggle.com/lonnieqin/shakespeare-play-generation-transformer)
 ### Masked Language Modeling
