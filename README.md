@@ -21,6 +21,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Fungi Classification with TensorFlow Custom Training Loop](https://www.kaggle.com/lonnieqin/fungi-classification-with-tf-custom-training-loop)
 - [Bird Classification with PyTorch](https://www.kaggle.com/lonnieqin/bird-classification-with-pytorch)
 - [Pawpularity: Vision Transformer from Scratch](https://www.kaggle.com/lonnieqin/pawpularity-vision-transformer-from-scratch)
+- [Pawpularity: Swin Transfomer from Scratch](https://www.kaggle.com/lonnieqin/pawpularity-swin-transformer-from-scratch)
 ### Image Regression
 - [TensorFlow multi-input Pet Pawpularity Model](https://www.kaggle.com/lonnieqin/tensorflow-multi-input-pet-pawpularity-model)
 - [Pawpularity with EfficientNet: [Training]](https://www.kaggle.com/lonnieqin/pawpularity-with-efficientnet-training)
