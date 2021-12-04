@@ -48,6 +48,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Jigsaw Toxicity Inference with FNet](https://www.kaggle.com/lonnieqin/jigsaw-toxicity-inference-with-fnett)
 - [TF-IDF Vectorization with Keras](https://www.kaggle.com/lonnieqin/tf-idf-vectorization-with-keras)
 - [Toxicity Classification: Word2Vec+TFIDF Training](https://www.kaggle.com/lonnieqin/toxicity-classification-word2vec-tfidf-training)
+- [Text Classifiercation with SKLearn](https://www.kaggle.com/lonnieqin/text-classification-with-sklearn)
 ### Text Generation
 - [Shakespeare Play Generation: Transformer](https://www.kaggle.com/lonnieqin/shakespeare-play-generation-transformer)
 ### Masked Language Modeling
