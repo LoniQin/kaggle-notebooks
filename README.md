@@ -49,6 +49,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [TF-IDF Vectorization with Keras](https://www.kaggle.com/lonnieqin/tf-idf-vectorization-with-keras)
 - [Toxicity Classification: Word2Vec+TFIDF Training](https://www.kaggle.com/lonnieqin/toxicity-classification-word2vec-tfidf-training)
 - [Text Classifiercation with SKLearn](https://www.kaggle.com/lonnieqin/text-classification-with-sklearn)
+- [UMICH Sentiment Classification: [99.56% accuracy]](https://www.kaggle.com/lonnieqin/umich-sentiment-classification-99-56-accuracy?scriptVersionId=81576877)
 ### Text Generation
 - [Shakespeare Play Generation: Transformer](https://www.kaggle.com/lonnieqin/shakespeare-play-generation-transformer)
 ### Masked Language Modeling
