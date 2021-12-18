@@ -60,6 +60,8 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [English-Spanish Translation: Switch Transformer](https://www.kaggle.com/lonnieqin/english-spanish-translation-switch-transformer)
 ## Question Answering
 - [Babi Tasks Question Answering with Keras](https://www.kaggle.com/lonnieqin/babi-tasks-question-answering-with-keras)
+## Name Entity Recognition
+- [Name Entity Recognition with Keras](https://www.kaggle.com/lonnieqin/name-entity-recognition-with-keras)
 
 ## Tabular Prediction
 ### Regression
