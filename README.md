@@ -73,6 +73,8 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [House Prices Prediction with KerasTuner](https://www.kaggle.com/lonnieqin/house-prices-prediction-with-kerastuner)
 - [Tabular Playground Series Prediction(Aug 2021)](https://www.kaggle.com/lonnieqin/tabular-playground-series-prediction)
 - [PetFinder Pawpularity Prediction with CatBoost](https://www.kaggle.com/lonnieqin/petfinder-pawpularity-prediction)
+- [TPS-01-22 with Catboost](https://www.kaggle.com/lonnieqin/tps-01-22-with-catboost)
+- [TPS-01-22 with AutoKeras](https://www.kaggle.com/lonnieqin/tps-01-22-with-autokeras)
 ### Classification
 - [Iris Classification with TF Decision Forests](https://www.kaggle.com/lonnieqin/iris-classification-with-tf-decision-forests)
 - [Titanic Prediction with Different Models](https://www.kaggle.com/lonnieqin/titanic-prediction-with-different-models)
@@ -85,7 +87,5 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [TPS-11-21: Catboost](https://www.kaggle.com/lonnieqin/tps-11-2021-catboost)
 - [TPS-11-21: DNN](https://www.kaggle.com/lonnieqin/tps-11-21-dnn)
 - [TPS-11-21: Conv2D](https://www.kaggle.com/lonnieqin/tps-11-21-conv2d)
-- [TPS-01-22 with Catboost](https://www.kaggle.com/lonnieqin/tps-01-22-with-catboost)
-- [TPS-01-22 with AutoKeras](https://www.kaggle.com/lonnieqin/tps-01-22-with-autokeras)
 ## Data Analysis
 * [Data Analysis with Machine Learners](https://www.kaggle.com/lonnieqin/data-analysis-with-machine-learners?scriptVersionId=77337248)
