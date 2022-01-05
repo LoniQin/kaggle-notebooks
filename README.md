@@ -90,5 +90,5 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [TPS-11-21: Conv2D](https://www.kaggle.com/lonnieqin/tps-11-21-conv2d)
 ## Data Analysis
 * [Data Analysis with Machine Learners](https://www.kaggle.com/lonnieqin/data-analysis-with-machine-learners?scriptVersionId=77337248)
-## Multi-Modal
-- [Job Salary Prediction with TensorFlow](https://www.kaggle.com/lonnieqin/job-salary-prediction-with-tensorflow)
+## Multi-Model
+- [Job Salary Prediction with TensorFlow MultiModel](https://www.kaggle.com/lonnieqin/job-salary-prediction-with-tensorflow)
