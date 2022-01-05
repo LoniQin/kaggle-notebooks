@@ -91,4 +91,4 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 ## Data Analysis
 * [Data Analysis with Machine Learners](https://www.kaggle.com/lonnieqin/data-analysis-with-machine-learners?scriptVersionId=77337248)
 ## Multi-Model
-- [Job Salary Prediction with TensorFlow MultiModel](https://www.kaggle.com/lonnieqin/job-salary-prediction-with-tensorflow)
+- [Job Salary Prediction with TensorFlow](https://www.kaggle.com/lonnieqin/job-salary-prediction-with-tensorflow)
