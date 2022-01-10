@@ -9,6 +9,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [MNIST Classification with TF-DF](https://www.kaggle.com/lonnieqin/tf-df-mnist-classification)
 - [MNIST Classification with Data Augmentation](https://www.kaggle.com/lonnieqin/mnist-classifier-with-data-augmentation)
 - [MNIST Classification with autokeras](https://www.kaggle.com/lonnieqin/mnist-classification-with-autokeras)
+- [MNIST Classification: Pseudo Labeling](https://www.kaggle.com/lonnieqin/mnist-classification-pseudo-labeling)
 - [Fashion MNIST Classification with 3DCNN](https://www.kaggle.com/lonnieqin/fashion-mnist-classification-with-3dcnn)
 - [Fashion MNIST Classification with TensorFlow](https://www.kaggle.com/lonnieqin/fashion-mnist-classification-with-tensorflow)
 - [Cifar10 Image Classification with PyTorch](https://www.kaggle.com/lonnieqin/cifar10-image-classification-with-pytorch)
