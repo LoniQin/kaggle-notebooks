@@ -98,3 +98,6 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 
 ## Time Series Prediction
 - [Jena Climate Prediction with LSTM](https://www.kaggle.com/lonnieqin/jena-climate-prediction-with-lstm)
+
+## Recommendation System
+- [Recommendation System with FastAI](https://www.kaggle.com/lonnieqin/recommendation-system-with-fastai)
