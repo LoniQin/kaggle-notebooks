@@ -80,6 +80,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [TPS-01-22 with AutoKeras](https://www.kaggle.com/lonnieqin/tps-01-22-with-autokeras)
 - [WiDS Datathon 2022 with Catboost](https://www.kaggle.com/lonnieqin/wids-datathon-2022-with-catboost)
 - [Ubiquant Market Prediction on TPU](https://www.kaggle.com/lonnieqin/ubiquant-market-prediction-on-tpu)
+- [TPS-22-03 with TabTransformer](https://www.kaggle.com/lonnieqin/tps-22-03-with-tabtransformer)
 ### Classification
 - [Iris Classification with TF Decision Forests](https://www.kaggle.com/lonnieqin/iris-classification-with-tf-decision-forests)
 - [Titanic Prediction with Different Models](https://www.kaggle.com/lonnieqin/titanic-prediction-with-different-models)
