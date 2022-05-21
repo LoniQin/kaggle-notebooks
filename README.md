@@ -103,7 +103,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 ## Time Series Prediction
 - [Jena Climate Prediction with LSTM](https://www.kaggle.com/lonnieqin/jena-climate-prediction-with-lstm)
 - [TPS-22-03 with LSTM](https://www.kaggle.com/lonnieqin/tps-22-03-with-lstm)
-- [Football prob prediction - LSTM [12th Solution](https://www.kaggle.com/code/lonnieqin/football-prob-prediction-lstm-12th-solution)
+- [Football prob prediction - LSTM [12th Solution]](https://www.kaggle.com/code/lonnieqin/football-prob-prediction-lstm-12th-solution)
 
 ## Recommendation System
 - [Recommendation System with FastAI](https://www.kaggle.com/lonnieqin/recommendation-system-with-fastai)
