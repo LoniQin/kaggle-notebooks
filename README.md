@@ -53,6 +53,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Text Classifiercation with SKLearn](https://www.kaggle.com/lonnieqin/text-classification-with-sklearn)
 - [UMICH Sentiment Classification: [99.56% accuracy]](https://www.kaggle.com/lonnieqin/umich-sentiment-classification-99-56-accuracy?scriptVersionId=81576877)
 - [IMDB Classification with fast.ai](https://www.kaggle.com/lonnieqin/imdb-classification-with-fast-ai)
+- [Quora Text Classification with SKLearn](https://www.kaggle.com/code/lonnieqin/quora-text-classification-with-sklearn)
 ### Text Generation
 - [Shakespeare Play Generation: Transformer](https://www.kaggle.com/lonnieqin/shakespeare-play-generation-transformer)
 ### Masked Language Modeling
