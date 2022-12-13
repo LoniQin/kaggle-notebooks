@@ -66,6 +66,8 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Babi Tasks Question Answering with Keras](https://www.kaggle.com/lonnieqin/babi-tasks-question-answering-with-keras)
 ## Name Entity Recognition
 - [Name Entity Recognition with Keras](https://www.kaggle.com/lonnieqin/name-entity-recognition-with-keras)
+## Natural Language Inference
+- [Natural Language Inference with BERT](https://www.kaggle.com/code/lonnieqin/natural-language-inference-with-bert)
 
 ## Tabular Prediction
 ### Regression
