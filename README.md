@@ -68,6 +68,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Name Entity Recognition with Keras](https://www.kaggle.com/lonnieqin/name-entity-recognition-with-keras)
 ### Natural Language Inference
 - [Natural Language Inference with BERT](https://www.kaggle.com/code/lonnieqin/natural-language-inference-with-bert)
+- [Natural Language Inference with DistilBERT](https://www.kaggle.com/code/lonnieqin/natural-language-inference-with-distilbert)
 
 ## Tabular Prediction
 ### Regression
