@@ -111,4 +111,4 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 
 ## Recommendation System
 - [Recommendation System with FastAI](https://www.kaggle.com/lonnieqin/recommendation-system-with-fastai)
-- [](https://www.kaggle.com/code/lonnieqin/recommendation-system-with-tensorflow-recommenders)
+- [Recommendation System with Tensorflow Recommenders](https://www.kaggle.com/code/lonnieqin/recommendation-system-with-tensorflow-recommenders)
