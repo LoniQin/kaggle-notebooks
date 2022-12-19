@@ -3,7 +3,6 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 # Table of Contents
 ## Computer Vision
 ### Image Classfication
-#### Small datasets
 - [MNIST Classification with CNN](https://www.kaggle.com/lonnieqin/mnist-classification-with-cnn)
 - [MNIST Classification with CatBoost](https://www.kaggle.com/lonnieqin/catboost-mnist-classification)
 - [MNIST Classification with TF-DF](https://www.kaggle.com/lonnieqin/tf-df-mnist-classification)
@@ -17,7 +16,6 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Cifar10 Classification: Vision Transformer](https://www.kaggle.com/lonnieqin/cifar10-classification-vision-transformer)
 - [Fashion MNIST Classification: Vision Transformer](https://www.kaggle.com/lonnieqin/fashion-mnist-classification-vision-transformer)
 - [Fashion MNIST: Getting Started with Trax](https://www.kaggle.com/lonnieqin/fashion-mnist-getting-started-with-trax)
-#### Medium datasets
 - [Flower Classification on TPU](https://www.kaggle.com/lonnieqin/flower-classification-on-tpu)
 - [Fungi Classification with TensorFlow Custom Training Loop](https://www.kaggle.com/lonnieqin/fungi-classification-with-tf-custom-training-loop)
 - [Bird Classification with PyTorch](https://www.kaggle.com/lonnieqin/bird-classification-with-pytorch)
