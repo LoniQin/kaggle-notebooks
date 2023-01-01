@@ -60,8 +60,6 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [English-Spanish Translation: Transformer](https://www.kaggle.com/lonnieqin/english-spanish-translation-transformer)
 - [English-Spanish Translation: FNet](https://www.kaggle.com/lonnieqin/english-spanish-translation-fnet)
 - [English-Spanish Translation: Switch Transformer](https://www.kaggle.com/lonnieqin/english-spanish-translation-switch-transformer)
-### Question Answering
-- [Babi Tasks Question Answering with Keras](https://www.kaggle.com/lonnieqin/babi-tasks-question-answering-with-keras)
 ### Name Entity Recognition
 - [Name Entity Recognition with Keras](https://www.kaggle.com/lonnieqin/name-entity-recognition-with-keras)
 ### Natural Language Inference
@@ -107,6 +105,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [TPS-22-03 with LSTM](https://www.kaggle.com/lonnieqin/tps-22-03-with-lstm)
 - [Football prob prediction - LSTM [12th Solution]](https://www.kaggle.com/code/lonnieqin/football-prob-prediction-lstm-12th-solution)
 - [Microbusiness Density Forecasting with Prophet](https://www.kaggle.com/code/lonnieqin/microbusiness-density-forecasting-with-prophet)
+- [Microbusiness Density Forecasting with KerasTuner](https://www.kaggle.com/code/lonnieqin/kerastuner-baseline)
 
 ## Recommendation System
 - [Recommendation System with FastAI](https://www.kaggle.com/lonnieqin/recommendation-system-with-fastai)
