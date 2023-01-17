@@ -94,6 +94,9 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [TPS-11-21: DNN](https://www.kaggle.com/lonnieqin/tps-11-21-dnn)
 - [TPS-11-21: Conv2D](https://www.kaggle.com/lonnieqin/tps-11-21-conv2d)
 - [Tabular prediction with fast.ai](https://www.kaggle.com/lonnieqin/tabular-prediction-with-fast-ai)
+- [Stroke Prediction with Catboost](https://www.kaggle.com/code/lonnieqin/stroke-prediction-with-catboost)
+- [Playground S3E3 with Logistic Regression](https://www.kaggle.com/code/lonnieqin/playground-s3e3-with-logistic-regression)
+
 
 ## Data Analysis
 * [Data Analysis with Machine Learners](https://www.kaggle.com/lonnieqin/data-analysis-with-machine-learners?scriptVersionId=77337248)
