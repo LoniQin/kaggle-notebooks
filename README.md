@@ -114,3 +114,6 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 ## Recommendation System
 - [Recommendation System with FastAI](https://www.kaggle.com/lonnieqin/recommendation-system-with-fastai)
 - [Recommendation System with Tensorflow Recommenders](https://www.kaggle.com/code/lonnieqin/recommendation-system-with-tensorflow-recommenders)
+
+## Sound Classification
+- [Bird Species Classification with EfficientNet](https://www.kaggle.com/code/lonnieqin/bird-species-classification-with-efficientnet)
