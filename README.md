@@ -119,4 +119,4 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Bird Species Classification with EfficientNet](https://www.kaggle.com/code/lonnieqin/bird-species-classification-with-efficientnet)
 
 ## Video Classification
-- [2023-03-23][Video Classification](https://www.kaggle.com/code/lonnieqin/video-classification)
+- [Video Classification](https://www.kaggle.com/code/lonnieqin/video-classification)
