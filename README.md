@@ -124,3 +124,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 
 ## Video Classification
 - [Video Classification](https://www.kaggle.com/code/lonnieqin/video-classification)
+
+
+## Custom Implementation
+- [Logistic Regression Model from Scratch](https://www.kaggle.com/code/lonnieqin/logistic-regression-model-from-scratch)
