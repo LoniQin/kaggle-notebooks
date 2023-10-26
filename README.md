@@ -98,6 +98,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Stroke Prediction with Catboost](https://www.kaggle.com/code/lonnieqin/stroke-prediction-with-catboost)
 - [Employee Attrition Prediction with Logistic Regression](https://www.kaggle.com/code/lonnieqin/employee-attrition-prediction-logistic-regression)
 * [Employee Attrition Prediction with DNN](https://www.kaggle.com/code/lonnieqin/employee-attrition-prediction-with-dnn)
+* [Software Defects Prediction with LGBM](https://www.kaggle.com/code/lonnieqin/software-defects-prediction-with-lgbm)
 
 ## Multi-Label Regression
 * [Single-Cell Perturbation with Conv1D](https://www.kaggle.com/code/lonnieqin/single-cell-perturbation-with-conv1d)
