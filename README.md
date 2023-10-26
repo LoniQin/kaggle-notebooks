@@ -99,6 +99,9 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Employee Attrition Prediction with Logistic Regression](https://www.kaggle.com/code/lonnieqin/employee-attrition-prediction-logistic-regression)
 * [Employee Attrition Prediction with DNN](https://www.kaggle.com/code/lonnieqin/employee-attrition-prediction-with-dnn)
 
+## Multi-Label Regression
+* [Single-Cell Perturbation with Conv1D](https://www.kaggle.com/code/lonnieqin/single-cell-perturbation-with-conv1d)
+
 
 ## Data Analysis
 * [Data Analysis with Machine Learners](https://www.kaggle.com/lonnieqin/data-analysis-with-machine-learners?scriptVersionId=77337248)
