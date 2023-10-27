@@ -99,6 +99,7 @@ Notebooks from my [Kaggle account](https://www.kaggle.com/lonnieqin).
 - [Employee Attrition Prediction with Logistic Regression](https://www.kaggle.com/code/lonnieqin/employee-attrition-prediction-logistic-regression)
 * [Employee Attrition Prediction with DNN](https://www.kaggle.com/code/lonnieqin/employee-attrition-prediction-with-dnn)
 * [Software Defects Prediction with LGBM](https://www.kaggle.com/code/lonnieqin/software-defects-prediction-with-lgbm)
+* [Smoker Status prediction with LGBM and Optuna](https://www.kaggle.com/code/lonnieqin/smoker-status-prediction-with-lgbm-and-optuna)
 
 ## Multi-Label Regression
 * [Single-Cell Perturbation with Conv1D](https://www.kaggle.com/code/lonnieqin/single-cell-perturbation-with-conv1d)
